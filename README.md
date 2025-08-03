@@ -50,7 +50,7 @@ temperature-converter/
 **Mayank Aneja**  
 📍 MCA | Chandigarh University  
 🔗 [GitHub](https://github.com/mayank10021)  
-📧 Email: _[your-email@example.com]_  
+📧 Email: _[mayankaneja2003@gmail.com]_  
 📱 Panipat, Haryana, India
 
 ---
