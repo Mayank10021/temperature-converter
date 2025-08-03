@@ -32,8 +32,7 @@ temperature-converter/
 
 ## 📸 Live Preview
 
-> Open the `index.html` file in any browser to try the converter.  
-> You can also deploy it using GitHub Pages or Netlify for a live link.
+> Open the `index.html` file in any browser to try the converter.
 
 ---
 
